@@ -1,4 +1,4 @@
-# ConvexHullAlgorithms
+# Convex Hull Algorithms
 Three Convex Hull Algorithms I created in Python. 
 The three Algorithms are:
 - Giftwrapping
